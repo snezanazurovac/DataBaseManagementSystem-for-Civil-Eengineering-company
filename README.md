@@ -25,6 +25,7 @@ e)code for import data to table_projects
 
 III)  Workbook Apocrify visualisation:
 
-DataAnalyze existing data with visualisaton
+DataAnalyze of existing data with visualisaton
+
 
 
